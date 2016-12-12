@@ -1,6 +1,5 @@
 package com.example.king.opencvforandroid;
 
-import android.media.audiofx.LoudnessEnhancer;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
